@@ -1,7 +1,7 @@
-# KnightVision
+# Embedded-night-vision-system-for-pedestrian-detection
 
 ## Introduction
-Modern sensors can provide drivers with a wealth of information, including impending traffic signals, detours, traffic conditions, and much more. However, at night, when it is dark or the cameras are of poor quality, these sensors may not be able to provide accurate information about pedestrians or other objects. To overcome this problem, we can use Knight Vision, an application which can be used to assist drivers in mkaing out pedestrians in the dark strets in the night and avoid accidents.
+Modern sensors can provide drivers with a wealth of information, including impending traffic signals, detours, traffic conditions, and much more. However, at night, when it is dark or the cameras are of poor quality, these sensors may not be able to provide accurate information about pedestrians or other objects. To overcome this problem, we can use this application which can be used to assist drivers in mkaing out pedestrians in the dark strets in the night and avoid accidents.
 
 ## HAAR HOG descriptors
 ### HAAR cascade
